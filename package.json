@@ -66,12 +66,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dixit-c247/design-system"
+    "url": "https://github.com/dixit-c247/system-design-library"
   },
   "keywords": [],
   "author": "Dixit",
   "bugs": {
-    "url": "https://github.com/dixit-c247/design-system/issues"
+    "url": "https://github.com/dixit-c247/system-design-library/issues"
   },
-  "homepage": "https://github.com/dixit-c247/design-system#readme"
+  "homepage": "https://github.com/dixit-c247/system-design-library#readme"
 }
